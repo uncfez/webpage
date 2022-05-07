@@ -29,6 +29,6 @@ jobs:
       env:
         HUGO_VERSION: 0.98.0
         HUGO_EXTENDED: true
-        TARGET_REPO: GrupoMAT/ACoSeMSusTran.github.io
+        TARGET_REPO: ACoSeMSusTran/ACoSeMSusTran.github.io
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
         CNAME: acosemsustran.github.io
