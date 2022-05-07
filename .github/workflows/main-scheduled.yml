@@ -2,13 +2,13 @@
 # Based on: https://www.jameswright.xyz/post/deploy-hugo-academic-using-githubio/
 # and: https://github.com/marketplace/actions/hugo-deploy-github-pages
 
-name: Build and Deploy
+name: Build and Deploy (Scheduled)
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the main branch
+# Controls when the action will run. Triggers the workflow on a schedule
 on:
-  push:
-    branches: [ main ]
+  schedule:
+    # Execute this task every two days at 04:00 AM
+    - cron:  '0 4 */2 * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

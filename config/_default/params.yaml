@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} MAT, XXXX and XXXX research groups.' #<br> This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ACoSeMSusTran/ACoSeMSusTran.github.io'
     content_dir: content
     branch: master
   avatar:
@@ -103,3 +103,9 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
