@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Coordinated project PID2020-112967GB: Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (ACoSeM@SusTran).'
+    twitter: ''
   analytics:
     google_analytics: 'G-P7KHEG9ESY'
     baidu_tongji: ''
@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 17
 
 # Extensions
 

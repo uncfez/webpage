@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ricardo García Ródenas
+title: Lídia Montero Mercadé
 
 # Username (this should match the folder name)
 authors:
-- ricardo
+- lidia
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,31 +14,20 @@ role: Full professor
 
 # Organizations/Affiliations
 organizations:
-- name: Escuela Superior de Informatica
-  url: "https://esi.uclm.es"
-- name: University of Castilla-La Mancha
-  url: "https://www.uclm.es"
+- name: Universidad Politécnica de Cataluña
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Optimization
-- Operational research
-- Transport
-- Simulation
+- XXXX
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: University of Castilla-La Mancha
-    year: 2019-Today
-  - course: MSc in Computer Science
-    institution: University of Castilla-La Mancha
-    year: 2019
-  - course: BSc in Computer Science
-    institution: University of Castilla-La Mancha
-    year: 2018
+  - course: PhD in XXXXX
+    institution: University of XXXX
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,22 +36,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ricardo.garcia@uclm.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'lidia.montero@upc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/joseangel_mb
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
-- icon: orcid
-  icon_pack: fab
-  link: http://orcid.org/0000-0002-5092-0070
-- icon: github
-  icon_pack: fab
-  link: https://github.com/RicardoGarciaRodenas
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
+#  link: https://twitter.com/XXXXX
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
+#- icon: orcid
+#  icon_pack: fab
+#  link: http://orcid.org/0000-0002-5092-0070
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/RicardoGarciaRodenas
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -82,7 +72,7 @@ user_groups:
 ---
 
 <p align="justify">
-Ricardo García Ródenas is XXXXX
+Lídia Montero Mercadé is XXXXX
 </p>
 
 <p align="justify">
