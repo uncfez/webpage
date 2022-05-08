@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Jorge Saavedra García
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- jorgesaavedra
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jorge.saavedra@urjc.es'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

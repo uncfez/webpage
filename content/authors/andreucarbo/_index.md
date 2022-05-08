@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Lídia Montero Mercadé
+title: Andreu Carbó Molina
 
 # Username (this should match the folder name)
 authors:
-- lidia
+- andreucarbo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Politécnica de Cataluña
-  url: "https://www.upc.edu"
+- name: Universidad Rey Juan Carlos
+  url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lidia.montero@upc.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andreu.carbo@urjc.es'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-<p align="justify">
-Lídia Montero Mercadé is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

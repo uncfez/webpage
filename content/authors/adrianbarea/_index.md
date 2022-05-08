@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Adrián Barea Vilar
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- adrianbarea
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Research collaborator
 
 # Organizations/Affiliations
 organizations:
@@ -20,14 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- XXXX
+#interests:
+#- XXXX
 
-education:
-  courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
+#education:
+#  courses:
+#  - course: PhD in XXXXX
+#    institution: University of XXXX
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:adrian.barea@urjc.es'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Grad Students
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

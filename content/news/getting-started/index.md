@@ -29,8 +29,8 @@ image:
   preview_only: false
 
 authors:
-  - ricardo
-  - joseangel
+  - ricardogarcia
+  - joseangelmartin
 
 tags:
   - Academic

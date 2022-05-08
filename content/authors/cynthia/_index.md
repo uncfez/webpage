@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Cynthia Barnhart
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- cynthia
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,20 +14,20 @@ role: Full professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Massachusetts Institute of Technology
+  #url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- XXXX
+#interests:
+#- XXXX
 
-education:
-  courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
+#education:
+#  courses:
+#  - course: PhD in XXXXX
+#    institution: University of XXXX
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,22 +36,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cbarnhart@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
+#  link: https://scholar.google.com/citations?user=BUuCZ38AAAAJ&hl=es
 #- icon: orcid
 #  icon_pack: fab
-#  link: http://orcid.org/0000-0002-5092-0070
+#  link: 0000-0002-4363-7074
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/RicardoGarciaRodenas
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vikrantvaze/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Raúl de Celis Fernández
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- raulcelis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Associate professor
 
 # Organizations/Affiliations
 organizations:
@@ -36,13 +36,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:raul.decelis@urjc.es'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=6uYouxkAAAAJ&hl=es
 #- icon: orcid
 #  icon_pack: fab
 #  link: http://orcid.org/0000-0002-5092-0070
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 <p align="justify">
-Luis Cadarso Morga is XXXXX
+Raúl de Celis Fernández is XXXXX
 </p>
 
 <p align="justify">

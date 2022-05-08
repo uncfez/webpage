@@ -1,32 +1,30 @@
 ---
 # Display name
-title: Ricardo García Ródenas
+title: José Ángel Martín Baos
 
 # Username (this should match the folder name)
 authors:
-- ricardo
+- joseangelmartin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Predoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Escuela Superior de Informatica
-  url: "https://esi.uclm.es"
-- name: University of Castilla-La Mancha
+- name: Universidad de Castilla-La Mancha
   url: "https://www.uclm.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
+- Machine Learning
+- Artificial Intelligence
 - Optimization
-- Operational research
-- Transport
-- Simulation
+- Discrete Choice Models
 
 education:
   courses:
@@ -47,22 +45,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ricardo.garcia@uclm.es'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/joseangel_mb
+  link: 'mailto:joseangel.martin@uclm.es'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/joseangel_mb
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
+  link: https://scholar.google.es/citations?user=omunIg8AAAAJ&hl=es&oi=ao
 - icon: orcid
   icon_pack: fab
-  link: http://orcid.org/0000-0002-5092-0070
+  link: https://orcid.org/0000-0002-8456-9215
 - icon: github
   icon_pack: fab
-  link: https://github.com/RicardoGarciaRodenas
+  link: https://github.com/joseangelmartinb
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
+  link: https://www.linkedin.com/in/joseangelmartinb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,13 +76,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - PhD Students
 ---
 
 <p align="justify">
-Ricardo García Ródenas is XXXXX
+José Ángel Martín Baos is a predoctoral researcher in computer science in the Escuela Superior de Informática of the University of Castilla-La Mancha. There, he graduated with honors on both a BSc. in computer science in the year 2018, and a MSc. in computer science in the year 2019.
 </p>
 
 <p align="justify">
-XXX
+He is currently studying his PhD at the University of Castilla-La Mancha with a FPU (Ayudas para la formación de profesorado universitario) grant from the Spanish Ministry of Science, Innovation and Universities. He is also working as research assistant in the MAT (Modelos y Algoritmos en Sistemas de Transportes) research group since 2016.
 </p>

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Juan Moreno García
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- juanmoreno
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Full professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Universidad de Castilla-La Mancha
+  url: "https://www.uclm.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,16 +36,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:juan.moreno@uclm.es'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
-#- icon: orcid
-#  icon_pack: fab
-#  link: http://orcid.org/0000-0002-5092-0070
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-2430-145X
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/RicardoGarciaRodenas
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 <p align="justify">
-Luis Cadarso Morga is XXXXX
+Juan Moreno García is XXXXX
 </p>
 
 <p align="justify">

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Esteve Codina Sancho
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- estevecodina
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Full professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Universidad Politécnica de Cataluña
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:esteve.codina@upc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 <p align="justify">
-Luis Cadarso Morga is XXXXX
+Esteve Codina Sancho is XXXXX
 </p>
 
 <p align="justify">

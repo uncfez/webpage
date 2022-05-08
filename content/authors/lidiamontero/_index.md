@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Lídia Montero Mercadé
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- lidiamontero
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: Full professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Universidad Politécnica de Cataluña
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lidia.montero@upc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -72,7 +72,7 @@ user_groups:
 ---
 
 <p align="justify">
-Luis Cadarso Morga is XXXXX
+Lídia Montero Mercadé is XXXXX
 </p>
 
 <p align="justify">

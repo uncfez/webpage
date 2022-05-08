@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: Xavier Ros Roca
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- xavierros
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Universidad Politécnica de Cataluña
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -34,15 +34,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:mari.paz.linares@fib.upc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=Pbwsl0QAAAAJ&hl=es
 #- icon: orcid
 #  icon_pack: fab
 #  link: http://orcid.org/0000-0002-5092-0070
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

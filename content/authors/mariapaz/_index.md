@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Luis Cadarso Morga
+title: María Paz Linares Herreros
 
 # Username (this should match the folder name)
 authors:
-- luiscadarso
+- mariapaz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full professor
+role: Associate professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Rey Juan Carlos
-  url: "https://www.urjc.es"
+- name: Universidad Politécnica de Cataluña
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luis.cadarso@urjc.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mari.paz.linares@fib.upc.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXXX
@@ -68,13 +68,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>
