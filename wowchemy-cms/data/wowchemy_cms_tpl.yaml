@@ -402,12 +402,20 @@ collections:
       - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
       # MODIFICATION by José Ángel:
+      - label: "Citation (upload the citation as: cite.bib file)"
+        name: "bib_file"
+        widget: "file"
+        media_library:
+          allow_multiple: false
+          media_folder: ""
+          config:
+            multiple: false
       - label: "PDF of the publication (upload the open version of the article)"
         name: "url_pdf"
         widget: "file"
         media_library:
           allow_multiple: false
-          media_folder: "/static/publications"
+          media_folder: "/static/files/publications"
           config:
             multiple: false
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
