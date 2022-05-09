@@ -425,7 +425,7 @@ collections:
       - { label: "URL to Poster", name: "url_poster", widget: "string", required: false }
       - { label: "URL to Source Document", name: "url_source", widget: "string", required: false }
       - { label: "URL to Video", name: "url_video", widget: "string", required: false }
-      - { label: "URL to Proyect", name: "url_project", widget: "string", required: false }
+      - { label: "URL to Project", name: "url_project", widget: "string", required: false }
       ### End of modification
       - label: "Draft (hide the document on the webpage)"
         name: "draft"
@@ -500,6 +500,12 @@ collections:
         widget: "list"
       - { label: "DOI", name: "doi", widget: "string", required: false }
       - { label: "Short description of the software (1 or 2 sentences)", name: "abstract", widget: "text", required: false }
+      - { label: "URL to Code repository (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
+      - { label: "URL to Dataset (for example, a dataset on this page)", name: "url_dataset", widget: "string", required: false }
+      - { label: "URL to Slides", name: "url_slides", widget: "string", required: false }
+      - { label: "URL to Poster", name: "url_poster", widget: "string", required: false }
+      - { label: "URL to Video", name: "url_video", widget: "string", required: false }
+      - { label: "URL to Project", name: "url_project", widget: "string", required: false }
       - label: Links
         name: links
         required: false
@@ -509,7 +515,7 @@ collections:
           - {label: name, name: "Text of the link", widget: string, required: false}
           - {label: url, name: "Link", widget: string}
         default:
-          - {Text of the link: "URL of the publication", Link: ""}
+          - {name: "URL of the publication", url: ""}
       - label: "Draft (hide the document on the webpage)"
         name: "draft"
         widget: "boolean"
