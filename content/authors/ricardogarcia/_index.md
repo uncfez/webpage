@@ -44,10 +44,4 @@ title: Ricardo García Ródenas
 email: ""
 ---
 
-<p align="justify">
 Ricardo García Ródenas is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>
