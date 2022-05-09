@@ -196,6 +196,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -268,6 +269,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -348,6 +350,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -454,6 +457,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -490,7 +494,7 @@ collections:
         multiple: true
         options:
           - { label: "Uncategorized", value: "0" }
-      - label: "Authors"
+      - label: "Authors (Note: Space character only works if there is text after it)"
         name: "authors"
         required: true
         widget: "list"
@@ -512,8 +516,8 @@ collections:
         widget: list
         collapsed: false
         fields:
-          - {label: name, name: "Text of the link", widget: string, required: false}
-          - {label: url, name: "Link", widget: string}
+          - {label: "Text of the link", name: name, widget: string, required: false}
+          - {label: "Link", name: url, widget: string}
         default:
           - {name: "URL of the publication", url: ""}
       - label: "Draft (hide the document on the webpage)"
@@ -591,6 +595,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
