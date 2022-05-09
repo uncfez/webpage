@@ -375,7 +375,7 @@ collections:
       - label: "Publication type"
         name: "publication_types"
         required: true
-        default: ["0"]
+        default: []
         widget: "select"
         # Can only have 1 pub. type assigned, but need `multiple` option to save as a Hugo taxonomy list.
         multiple: true
@@ -419,11 +419,15 @@ collections:
         public_folder: '/files/publications'
         media_library:
           allow_multiple: false
-      #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
-      - { label: "URL to code (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
-
+      - { label: "URL to Code repository (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
+      - { label: "URL to Dataset (for example, a dataset on this page)", name: "url_dataset", widget: "string", required: false }
+      - { label: "URL to Slides", name: "url_slides", widget: "string", required: false }
+      - { label: "URL to Poster", name: "url_poster", widget: "string", required: false }
+      - { label: "URL to Source Document", name: "url_source", widget: "string", required: false }
+      - { label: "URL to Video", name: "url_video", widget: "string", required: false }
+      - { label: "URL to Proyect", name: "url_project", widget: "string", required: false }
       ### End of modification
-      - label: "Draft"
+      - label: "Draft (Hide the document on the webpage)"
         name: "draft"
         widget: "boolean"
         default: false
