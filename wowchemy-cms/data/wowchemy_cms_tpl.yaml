@@ -401,27 +401,29 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
-      # MODIFICATION by José Ángel:
+      ### MODIFICATION by José Ángel:
       - label: "Citation (upload the citation as: cite.bib file)"
         name: "bib_file"
+        required: false
         widget: "file"
         media_library:
           allow_multiple: false
           media_folder: ""
           config:
             multiple: false
-      - label: "PDF of the publication (upload the open version of the article)"
+      - label: 'PDF of the publication (upload the open version of the article) -{{slug}}'
         name: "url_pdf"
+        required: false
         widget: "file"
         media_library:
           allow_multiple: false
-          media_folder: "/static/files/publications"
+          media_folder: /static/files/publications
           config:
             multiple: false
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
       - { label: "URL to code (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
 
-      # End of modification
+      ### End of modification
       - label: "Draft"
         name: "draft"
         widget: "boolean"
