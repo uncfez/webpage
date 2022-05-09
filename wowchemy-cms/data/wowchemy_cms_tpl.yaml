@@ -401,6 +401,18 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
+      # MODIFICATION by José Ángel:
+      - label: "PDF of the publication (upload the open version of the article)"
+        name: "url_pdf"
+        widget: "file"
+        default: "{{slug}}.pdf"
+        media_library:
+          config:
+            multiple: false
+      #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
+      - { label: "URL to code (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
+
+      # End of modification
       - label: "Draft"
         name: "draft"
         widget: "boolean"
