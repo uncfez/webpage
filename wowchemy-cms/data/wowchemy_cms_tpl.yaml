@@ -415,10 +415,10 @@ collections:
         name: "url_pdf"
         required: false
         widget: "file"
+        media_folder: '/static/files/publications'
+        public_folder: '/files/publications'
         media_library:
           allow_multiple: false
-          media_folder: '/static/files/publications'
-          public_folder: '/files/publications'
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
       - { label: "URL to code (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
 
