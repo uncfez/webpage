@@ -405,8 +405,9 @@ collections:
       - label: "PDF of the publication (upload the open version of the article)"
         name: "url_pdf"
         widget: "file"
-        default: "{{slug}}.pdf"
         media_library:
+          allow_multiple: false
+          media_folder: "/static/publications"
           config:
             multiple: false
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
