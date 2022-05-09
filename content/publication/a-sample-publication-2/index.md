@@ -7,6 +7,7 @@ authors:
   - Ricardo García Ródenas
 publication: A journal
 abstract: This is a Journal article abstract
+url_pdf: dummy.pdf
 draft: false
 featured: false
 image:
