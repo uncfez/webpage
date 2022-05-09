@@ -31,7 +31,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-publishDate: 2099-03-13T22:09:53.496673Z
+publishDate: 
 url_poster: ""
 url_code: ""
 doi: ""
