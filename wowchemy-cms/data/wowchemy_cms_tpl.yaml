@@ -153,10 +153,10 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-  - name: posts
-    label: Posts
-    label_singular: Post
-    folder: 'content/post'
+  - name: news
+    label: News
+    label_singular: News
+    folder: 'content/news'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
