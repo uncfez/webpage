@@ -504,12 +504,12 @@ collections:
         name: links
         required: false
         widget: list
+        collapsed: false
         fields:
-          - {label: Text of the link, name: name, widget: string, required: false}
-          - {label: Link, name: url, widget: string}
+          - {label: name, name: "Text of the link", widget: string, required: false}
+          - {label: url, name: "Link", widget: string}
         default:
-          - {name: "URL of the publication", url: ""}
-
+          - {Text of the link: "URL of the publication", Link: ""}
       - label: "Draft (hide the document on the webpage)"
         name: "draft"
         widget: "boolean"
