@@ -7,8 +7,7 @@ authors:
   - Ricardo García Ródenas
 publication: A journal
 abstract: This is a Journal article abstract
-bib_file: cite.bib
-url_code: https://github.com/ACoSeMSusTran/webpage
+url_pdf: dummy.pdf
 draft: false
 featured: false
 image:

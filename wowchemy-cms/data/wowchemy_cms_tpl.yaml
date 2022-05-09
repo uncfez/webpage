@@ -408,16 +408,17 @@ collections:
         widget: "file"
         media_library:
           allow_multiple: false
-          media_folder: ""
+          media_folder: ''
           config:
             multiple: false
-      - label: 'PDF of the publication (upload the open version of the article) -{{slug}}'
+      - label: "PDF of the publication (upload the open version of the article)"
         name: "url_pdf"
         required: false
         widget: "file"
         media_library:
           allow_multiple: false
-          media_folder: /static/files/publications
+          media_folder: '/static/files/publications'
+          public_folder: '/files/publications'
           config:
             multiple: false
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
