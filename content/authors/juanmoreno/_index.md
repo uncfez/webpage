@@ -70,11 +70,3 @@ highlight_name: false
 user_groups:
   - Principal Investigators
 ---
-
-<p align="justify">
-Juan Moreno García is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

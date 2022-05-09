@@ -70,11 +70,3 @@ highlight_name: false
 user_groups:
   - Principal Investigators
 ---
-
-<p align="justify">
-Luis Cadarso Morga is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

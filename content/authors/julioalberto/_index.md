@@ -70,11 +70,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-<p align="justify">
-Julio Alberto López Gómez is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

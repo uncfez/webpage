@@ -70,11 +70,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-<p align="justify">
-Ester del Castillo Herrera is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>

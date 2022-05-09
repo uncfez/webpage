@@ -70,11 +70,3 @@ highlight_name: false
 user_groups:
   - Principal Investigators
 ---
-
-<p align="justify">
-Lídia Montero Mercadé is XXXXX
-</p>
-
-<p align="justify">
-XXX
-</p>
