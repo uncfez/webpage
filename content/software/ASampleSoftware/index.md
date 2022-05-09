@@ -19,7 +19,7 @@ subtitle: ""
 featured: false
 tags: []
 categories: []
-date: 2059-12-31T23:00:00.000Z
+date: 2019-12-31T23:00:00.000Z
 url_slides: ""
 links:
   - name: A custom link
@@ -31,7 +31,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-publishDate: 
+publishDate:
 url_poster: ""
 url_code: ""
 doi: ""
