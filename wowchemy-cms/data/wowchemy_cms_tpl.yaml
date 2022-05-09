@@ -370,7 +370,7 @@ collections:
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publication Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - label: "Publication type"
         name: "publication_types"
@@ -393,13 +393,13 @@ collections:
         name: "authors"
         required: true
         widget: "list"
+      - { label: "Journal/Publisher", name: "publication", widget: "string", required: false }
+      - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - label: "Author Notes (contributions or affiliations for each author)"
         name: "author_notes"
         required: false
         widget: "list"
       - { label: "DOI", name: "doi", widget: "string", required: false }
-      - { label: "Publication", name: "publication", widget: "string", required: false }
-      - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
       - { label: "Abstract", name: "abstract", widget: "text", required: false }
       ### MODIFICATION by José Ángel:
       - label: "Citation (upload the citation as: cite.bib file)"
@@ -427,7 +427,7 @@ collections:
       - { label: "URL to Video", name: "url_video", widget: "string", required: false }
       - { label: "URL to Proyect", name: "url_project", widget: "string", required: false }
       ### End of modification
-      - label: "Draft (Hide the document on the webpage)"
+      - label: "Draft (hide the document on the webpage)"
         name: "draft"
         widget: "boolean"
         default: false
@@ -479,9 +479,9 @@ collections:
     filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Name of the Software", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
-      - label: "Publication type"
+      - label: "Publication type of the associated paper if any, if not: Uncategorized"
         name: "publication_types"
         required: true
         default: ["0"]
@@ -490,14 +490,6 @@ collections:
         multiple: true
         options:
           - { label: "Uncategorized", value: "0" }
-          - { label: "Conference paper", value: "1" }
-          - { label: "Journal article", value: "2" }
-          - { label: "Preprint / Working Paper", value: "3" }
-          - { label: "Report", value: "4" }
-          - { label: "Book", value: "5" }
-          - { label: "Book section", value: "6" }
-          - { label: "Thesis", value: "7" }
-          - { label: "Patent", value: "8" }
       - label: "Authors"
         name: "authors"
         required: true
@@ -507,10 +499,18 @@ collections:
         required: false
         widget: "list"
       - { label: "DOI", name: "doi", widget: "string", required: false }
-      - { label: "Publication", name: "publication", widget: "string", required: false }
-      - { label: "Publication (abbreviated)", name: "publication_short", widget: "string", required: false }
-      - { label: "Abstract", name: "abstract", widget: "text", required: false }
-      - label: "Draft"
+      - { label: "Short description of the software (1 or 2 sentences)", name: "abstract", widget: "text", required: false }
+      - label: Links
+        name: links
+        required: false
+        widget: list
+        fields:
+          - {label: Text of the link, name: name, widget: string, required: false}
+          - {label: Link, name: url, widget: string}
+        default:
+          - {name: "URL of the publication", url: ""}
+
+      - label: "Draft (hide the document on the webpage)"
         name: "draft"
         widget: "boolean"
         default: false
@@ -537,6 +537,7 @@ collections:
         name: "image"
         required: false
         widget: object
+        collapsed: true
         fields:
           - label: "Upload an image named `featured.jpg/png`"
             name: "filename"
@@ -550,8 +551,7 @@ collections:
           - { label: Description for screen readers, name: alt_text, widget: string, required: false }
           - { label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart" }
           - { label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false }
-      - { label: "Summary (shortened abstract)", name: "summary", widget: "text", required: false }
-      - {label: "Details", name: "body", widget: "markdown", required: false}
+      - {label: "Details of the software (main page)", name: "body", widget: "markdown", required: false}
       - { label: "Publish this page on", name: "date", widget: "datetime" }
 
   - name: slides
