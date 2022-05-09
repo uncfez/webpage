@@ -419,8 +419,6 @@ collections:
           allow_multiple: false
           media_folder: '/static/files/publications'
           public_folder: '/files/publications'
-          config:
-            multiple: false
       #- { label: "URL to PDF file", name: "url_pdf", widget: "string", required: false }
       - { label: "URL to code (for example, GitHub repository)", name: "url_code", widget: "string", required: false }
 
