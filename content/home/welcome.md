@@ -14,7 +14,8 @@ design:
   background:
     image: micinn_gob_web_aei_2.jpg
 ---
-
 <br>
 
 Coordinated project PID2020-112967GB: Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (ACoSeM@SusTran).
+
+Grant PID2020-112967GB-C32 funded by MCIN/AEI/ 10.13039/501100011033 and  by ERDF A way of making Europe.
