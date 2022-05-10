@@ -8,11 +8,11 @@ title: |
 hero_media: welcome.jpg
 widget_id: "1"
 design:
-  columns: "1"
+  columns: ""
   css_style: null
   css_class: null
   background:
-    image: micinn_gob_web_aei_2.jpg
+    image: ""
 ---
 <br>
 
