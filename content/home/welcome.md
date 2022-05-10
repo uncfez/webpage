@@ -20,4 +20,4 @@ Coordinated project **PID2020-112967GB**: Analytics for Competitiveness and Seam
 
 Grant PID2020-112967GB funded by MCIN/AEI/10.13039/501100011033 and  by ERDF A way of making Europe.
 
-<img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="30%"/>
+<center><img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="80%"/></center>
