@@ -10,7 +10,7 @@ abstract: This is a Journal article abstract
 bib_file: cite.bib
 url_pdf: /files/publications/dummy.pdf
 url_code: https://github.com/ACoSeMSusTran/webpage
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
