@@ -18,6 +18,8 @@ design:
 
 Coordinated project **PID2020-112967GB**: Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (**ACoSeM@SusTran**).
 
-Grant PID2020-112967GB funded by MCIN/AEI/10.13039/501100011033 and  by ERDF A way of making Europe.
+* **UPC:** Grant PID2020-112967GB-C31 funded by MCIN/AEI/10.13039/501100011033 
+* **UCLM:** Grant PID2020-112967GB-C32 funded by MCIN/AEI/10.13039/501100011033 
+* **URJC:** Grant PID2020-112967GB-C33 funded by MCIN/AEI/10.13039/501100011033 
 
 <center><img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="80%"/></center>
