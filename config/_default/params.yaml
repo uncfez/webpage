@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} <a href="https://imp.upc.edu" target="_blank">IMP</a>, <a href="https://blog.uclm.es/grupomat/MAT" target="_blank">MAT</a> and <a href="https://gestion2.urjc.es/pdi/grupos-investigacion/gisat----astrg" target="_blank">GISAT</a> research groups.' #<br> This work is licensed under {license}'
+    notice: '© {year} <a href="https://imp.upc.edu" target="_blank">IMP</a>, <a href="https://blog.uclm.es/grupomat/MAT" target="_blank">MAT</a>, <a href="https://oreto.esi.uclm.es/" target="_blank">ORETO</a> and <a href="https://gestion2.urjc.es/pdi/grupos-investigacion/gisat----astrg" target="_blank">GISAT</a> research groups.' #<br> This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
