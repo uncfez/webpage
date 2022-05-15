@@ -14,12 +14,12 @@ design:
   background:
     image: ""
 ---
-<br>
+Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (**ACoSeM@SusTran**).
 
-Coordinated project **PID2020-112967GB**: Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (**ACoSeM@SusTran**).
-
+<small>
 * **UPC:** Grant PID2020-112967GB-C31 funded by MCIN/AEI/10.13039/501100011033 
 * **UCLM:** Grant PID2020-112967GB-C32 funded by MCIN/AEI/10.13039/501100011033 
 * **URJC:** Grant PID2020-112967GB-C33 funded by MCIN/AEI/10.13039/501100011033 
+</small>
 
 <center><img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="80%"/></center>
