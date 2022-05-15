@@ -15,7 +15,7 @@ design:
     image: ""
 ---
 <p>Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (<strong>ACoSeM@SusTran</strong>).</p>
-<p>Research proyects funded by MCIN/AEI/10.13039/501100011033.</p>
+<p><small>Research proyects funded by MCIN/AEI/10.13039/501100011033.</small></p>
 <ul>
 <li><small><strong>UPC:</strong> <a href="/project/pid2020-112967gb-c31/">Grant PID2020-112967GB-C31</a></small></li>
 <li><small><strong>UCLM:</strong> <a href="/project/pid2020-112967gb-c32/">Grant PID2020-112967GB-C32</a></small></li>
