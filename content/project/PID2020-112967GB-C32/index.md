@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-date: 2021-04-27T00:00:00Z
+date: 2022-05-14T12:00:38.103Z
 summary: "Subproject 2: Meeting Artificial Intelligence and Machine Learning for
   Rail Passenger Service Planning under Competition."
 authors:
