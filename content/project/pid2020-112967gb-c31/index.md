@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-date: 2022-05-15T11:52:58.979Z
+date: 2022-05-13T12:00:04.658Z
 summary: "Subproject 1: Meeting Optimization and Machine Learning for Railway
   Transport and Urban Mobility Planning and Management."
 authors:
