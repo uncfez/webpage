@@ -23,8 +23,8 @@ url_code: ""
 
 **Principal Investigator(s)**
 
-* [Ricardo García Ródenas](author/ricardo-garcia-rodenas/)
-* [Juan Moreno Garcia](https://directorio.uclm.es/persona.aspx?cod=Y+kJXh5Ob9Ua9WXhMGeeJvS0R9JCadhf)
+* [Ricardo García Ródenas](/author/ricardo-garcia-rodenas/)
+* [Juan Moreno Garcia](/author/juan-moreno-garcia/)
 
 **Research team:**
 
