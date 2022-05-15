@@ -1,6 +1,6 @@
 ---
 url_pdf: ""
-date: 2022-05-15T11:56:46.438Z
+date: 2022-05-13T11:56:46.438Z
 summary: "Subproject 3: Meeting Operations Research and Machine Learning for
   Efficient Planning, Management and Control at Air Transport Mobility."
 authors:
