@@ -3,7 +3,9 @@ url_pdf: ""
 date: 2021-04-27T00:00:00Z
 summary: "Subproject 2: Meeting Artificial Intelligence and Machine Learning for
   Rail Passenger Service Planning under Competition."
-authors: []
+authors:
+  - Ricardo García Ródenas
+  - Juan Moreno García
 url_video: ""
 tags:
   - Artificial Intelligence
@@ -28,15 +30,15 @@ url_code: ""
 
 **Research team:**
 
-* [Ester del Castillo Herrera](https://directorio.uclm.es/persona.aspx?cod=Ue5xER6uouKUpB88WY/mfitM4c+2kOQ3)
-* [Luis Rodríguez Benitez](https://directorio.uclm.es/persona.aspx?cod=l2VLfdIRKxJf4f0k7MlkiCtM4c+2kOQ3)
-* [María Luz López García](https://directorio.uclm.es/persona.aspx?cod=lzoI3nlqQgLbZyWX3/04XStM4c+2kOQ3)
+* [Ester del Castillo Herrera](/author/ester-del-castillo-herrera)
+* [Luis Rodríguez Benitez](/author/luis-rodriguez-benitez/)
+* [María Luz López García](/author/maria-luz-lopez-garcia/)
 
 **Work team:**
 
-* [Julio Alberto López Gómez](https://directorio.uclm.es/persona.aspx?cod=cNMvNCVidOBvm1kO2/2rMpWI7iDgZ9TSkGC+LfDlw/w=)
-* [José Ángel Martín Baos](https://directorio.uclm.es/persona.aspx?cod=i5oiyY4AqIfxJm/7+XNZFu5fvFkSIRhBjn0mXjby01E=)
-* José Carlos García García
+* [Julio Alberto López Gómez](/author/julio-alberto-lopez-gomez/)
+* [José Ángel Martín Baos](/author/jose-angel-martin-baos/)
+* [José Carlos García García](/author/jose-carlos-garcia-garcia/)
 
 **Abstract:**
 
