@@ -9,7 +9,10 @@ role: Predoctoral researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
-  - XXXX
+  - Optimization
+  - Operational Research
+  - Public Transport
+  - Rail Freight Transport
 social:
   - icon: envelope
     icon_pack: fas
