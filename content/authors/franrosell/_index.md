@@ -42,8 +42,6 @@ highlight_name: false
 title: Francisca Rosell Camps
 email: ""
 ---
-Francisca Rosell Camps is a mathematician, currently a doctoral student in the program of the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya.
+Francisca Rosell Camps is a mathematician, currently a doctoral student in the program of the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya. She has collaborated on different research projects centred on improving the reliability and robustness of the public transport networks, both bus and rail.
 
-She has collaborated on different research projects centred on improving the reliability and robustness of the public transport networks, both bus and rail.
-
-Her doctoral thesis is focused on mathematical optimization models for rail freight networks. The main objective is to analyze the impact that the improvements in the railway infrastructure can have on the use of the train for freight transport.
+Her doctoral thesis is focused on mathematical optimization models for rail freight transport networks. The main objective is to analyze the impact that the improvements in the railway infrastructure can have on the use of the train for freight transport.
