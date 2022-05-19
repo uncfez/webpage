@@ -22,14 +22,14 @@ social:
   - display:
       header: false
     link: www.linkedin.com/in/frarosel
-    icon_pack: far
+    icon_pack: fab
     icon: linkedin
 education:
   courses:
     - course: Master in Statistical and Operations Research, 2014
       institution: Universitat Politècnica de Catalunya
       year: 2014
-    - course: BSc in Mathematic
+    - course: BSc in Mathematics
       institution: Universitat de Barcelona
       year: 1994
 user_groups:
