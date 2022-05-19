@@ -6,6 +6,7 @@ superuser: false
 authors:
   - franrosell
 role: Predoctoral researcher
+avatar_filename: avatar.jpg
 bio: null
 interests:
   - XXXX
