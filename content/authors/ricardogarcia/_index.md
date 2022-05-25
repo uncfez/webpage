@@ -10,9 +10,8 @@ avatar_filename: null
 bio: null
 interests:
   - Optimization
-  - Operational research
-  - Transport
-  - Simulation
+  - Machine Learning
+  - Transportation
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,7 +33,7 @@ education:
     - course: PhD in Mathematics
       institution: Universidad Politécnica de Madrid
       year: 2002
-    - course: BSc in Mathematic
+    - course: BSc in Mathematics
       institution: Universidad de Valencia
       year: 1991
 user_groups:
@@ -43,5 +42,4 @@ highlight_name: false
 title: Ricardo García Ródenas
 email: ""
 ---
-
-Ricardo García Ródenas is XXXXX
+My current research interests include fields:  (**i) transport planning**, where research has been carried out on the design of urban multimodal interchanges, transport network design problems (private and public), modelling of traffic congestion (using network equilibrium and simulation models), traffic light control, intelligent traffic systems, location of highways, location of hydrogen fuel cell electric vehicle (FCEV) charge stations, estimation of origin-destination matrices and planning of railway systems; in parallel, work has been carried out in the field of (ii) **optimization**, in which exact algorithms have been developed for large-scale structured problems, for bi-level mathematical programming, decomposition methods, convex optimization, and metaheuristics and the research line (iii) of development of **machine learning** methods in the field of transport.
