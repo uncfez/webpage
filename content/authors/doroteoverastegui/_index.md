@@ -5,10 +5,11 @@ organizations:
 superuser: false
 authors:
   - doroteoverastegui
-role: Full Professor
+role: Assistant Professor
 bio: null
 interests:
-  - XXXX
+  - Optimization
+  - Traffic
 social:
   - icon: envelope
     icon_pack: fas
