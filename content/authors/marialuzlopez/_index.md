@@ -1,72 +1,34 @@
 ---
-# Display name
-title: María Luz López García
-
-# Username (this should match the folder name)
-authors:
-- marialuzlopez
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Full Professor
-
-# Organizations/Affiliations
 organizations:
-- name: Universidad de Castilla-La Mancha
-  url: "https://www.uclm.es"
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
+  - name: Universidad de Castilla-La Mancha
+    url: https://www.uclm.es
+superuser: false
+authors:
+  - marialuzlopez
+role: Assistant Professor
+bio: null
 interests:
-- XXXX
-
+  - Machine Learning
+  - Transportation
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:marialuz.lopez@uclm.es
+  - icon: orcid
+    icon_pack: fab
+    link: http://orcid.org/0000-0002-2452-5472
 education:
   courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:marialuz.lopez@uclm.es'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/XXXXX
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=QOP_1r8AAAAJ&hl=es
-- icon: orcid
-  icon_pack: fab
-  link: http://orcid.org/0000-0002-2452-5472
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/RicardoGarciaRodenas
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: M.Sc. degree in Mathematics
+      institution: Universidad Autónoma de Madrid
+      year: 1990
+    - course: Ph.D in Computer Science
+      institution: Universidad de Castilla-La Mancha
+      year: 2013
 user_groups:
   - Researchers
+highlight_name: false
+title: María Luz López García
+email: ""
 ---
+María Luz López García is an Assistant Professor of Applied Mathematics at the University of Castilla-La Mancha. She received her M.Sc. degree in Mathematics from the Universidad Autónoma de Madrid, Spain, in 1990 and a Ph.D. from the Universidad de Castilla-La Mancha, Spain, in 2013. Her current research interests include data mining applied to transportation systems and artificial intelligence.
