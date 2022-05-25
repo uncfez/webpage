@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - eusebioangulo
-role: Associate Professor
+role: Assistant Professor
 bio: null
 interests:
   - MachineLearning
