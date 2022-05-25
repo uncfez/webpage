@@ -9,9 +9,9 @@ role: Full professor
 avatar_filename: null
 bio: null
 interests:
+  - Transportation
   - Optimization
   - Machine Learning
-  - Transportation
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,3 +43,5 @@ title: Ricardo García Ródenas
 email: ""
 ---
 My current research interests include fields (i) transport planning, (ii) optimization and (iii) machine learning.  My experience in these fields of research has been as follows: (**i) transport planning**,  I have studied the design of urban multimodal interchanges, transport network design problems (private and public), modelling of traffic congestion (using network equilibrium and simulation models), traffic light control, intelligent traffic systems, location of highways, location of hydrogen fuel cell electric vehicle (FCEV) charge stations, estimation of origin-destination matrices and planning of railway systems; In parallel I have also worked in the field of (ii) **optimization**, in which exact algorithms have been developed for large-scale structured problems, for bi-level mathematical programming, decomposition methods, convex optimization, and metaheuristics and and with respect to  (iii) **machine learning**   I have developed methods in the field of transport.
+
+The different research projects that I have conducted have enabled the creation of the MAT (Models and Algorithms for Transport Systems) research group in 2004 at the University of Castilla-La Mancha. The focus of the research carried out in the MAT Group, in addition to the development of knowledge, pursues a transfer to society.
