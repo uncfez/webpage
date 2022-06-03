@@ -40,3 +40,6 @@ url_code: ""
 
 
 XXXXXX
+
+
+<center><a href="https://www.upc.edu" target="_blank"><img src="/files/images/UPC.png" alt="UPC logo" style="display:inline-block;width:30%;height:auto;"></a></center>

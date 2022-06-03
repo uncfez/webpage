@@ -40,3 +40,6 @@ url_code: ""
 
 
 XXXXXX
+
+
+<center><a href="https://www.urjc.es" target="_blank"><img src="/files/images/URJC.png" alt="URJC logo" style="display:inline-block;width:30%;height:auto;"></a></center>

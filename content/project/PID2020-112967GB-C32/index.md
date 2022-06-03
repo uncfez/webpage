@@ -49,3 +49,5 @@ This Coordinated Project is composed of 8 different specific objectives.
 * **O4 URJC-UCLM.** *Combining operations research methods, machine learning and artificial intelligence to advance the theory and practice of operational transportation system planning and management in competitive scenarios.*
 * **O7 UCLM.** *Design of machine learning methods and artificial intelligence for the tactical analysis of the competition in transport systems..*
 * **O8 UPC-URJC-UCLM.** *Dissemination, internationalization, strategy, and coordination of the project.*
+
+<center><a href="https://www.uclm.es" target="_blank"><img src="/files/images/UCLM.png" alt="UCLM logo" style="display:inline-block;width:30%;height:auto;"></a></center>
