@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Francisca Rosell
   - Esteve Codina
-publication_short: Transportation Research Procedia, Vol. 47, 2020, 441 - 448
+publication_short: Transportation Research Procedia, Volume 47, 2020, pages 441 - 448
 abstract: This paper presents a mathematical programming-based model for
   evaluating the impact on a mixed railway network from proposals for
   infrastructure improvement and capacity expansion that are oriented mainly
