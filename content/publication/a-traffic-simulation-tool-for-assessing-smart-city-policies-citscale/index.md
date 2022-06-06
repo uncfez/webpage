@@ -19,7 +19,7 @@ abstract: The CitScale visualization and analytics platform has proven to be
   CitScale will provide representations of activity -based demand. This flexible
   tool will save a lot of time for traffic analysts and future transportation
   projects at the UPC.
-bib_file: ieee-xplore-citation-bibtex-download-2022.6.6.11.43.7.bib
+bib_file: cite.bib
 url_pdf: /files/publications/2019cse-v10.pdf
 url_dataset: ""
 url_slides: ""
@@ -39,7 +39,7 @@ lastmod: 2021-03-13T23:10:02+01:00
 publication: "*Computing in Science & Engineering*"
 featured: false
 date: 2022-06-06T09:38:27.563Z
-publishDate: 2021-03-13T22:09:53.496673Z
+publishDate: 2021-03-13T22:09:53.496Z
 doi: https://doi.org/10.1109/MCSE.2019.2943755
 url_code: ""
 url_poster: ""
