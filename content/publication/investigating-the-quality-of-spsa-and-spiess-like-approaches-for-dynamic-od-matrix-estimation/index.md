@@ -30,7 +30,7 @@ url_dataset: ""
 url_source: ""
 url_video: ""
 url_project: ""
-draft: true
+draft: false
 tags: []
 categories: []
 projects: []
@@ -44,6 +44,6 @@ publication: "*TransportMetrica-A*"
 url_slides: ""
 featured: false
 date: 2022-06-06T09:25:36.850Z
-publishDate: 2021-03-13T22:09:53.496673Z
+publishDate: 2021-03-13T22:09:53.496Z
 url_poster: ""
 ---
