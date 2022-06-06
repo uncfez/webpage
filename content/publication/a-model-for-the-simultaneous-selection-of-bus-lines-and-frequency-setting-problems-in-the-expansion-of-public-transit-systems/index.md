@@ -42,7 +42,7 @@ image:
   preview_only: true
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
-publication: "*Transportation Research Procedia *"
+publication: Transportation Research Procedia
 featured: false
 date: 2020-04-01T11:00:18.946Z
 publishDate: 2021-03-13T22:09:53.496Z
