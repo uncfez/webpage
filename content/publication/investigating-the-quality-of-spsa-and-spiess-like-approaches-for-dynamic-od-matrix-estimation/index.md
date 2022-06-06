@@ -40,7 +40,7 @@ image:
   preview_only: true
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
-publication: "*TransportMetrica-A*"
+publication: TransportMetrica-A
 featured: false
 date: 2019-12-19T10:57:05.316Z
 publishDate: 2021-03-13T22:09:53.496Z
