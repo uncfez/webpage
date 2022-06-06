@@ -9,7 +9,7 @@ authors:
   - Xavier Ros-Roca
   - R. Herranz
   - Jaume Barceló
-publication_short: Transportation Research Procedia Vol 37 pp 417-424
+publication_short: Transportation Research Procedia Volume 37, 2019, pages 417-424.
 abstract: OD matrices that describe mobility patterns provide major input to
   most transport analysis models. Since OD matrices are not yet directly
   observable, they are usually estimated indirectly. Data from new sources such
