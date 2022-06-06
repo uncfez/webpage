@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Esteve Codina
   - Francisca Rosell
-publication_short: Transportation Research Procedia 37 (2019) 298–305
+publication_short: Transportation Research Procedia, Volume 37, 2019, pages 298–305.
 abstract: This paper expands on the stochastic version of the strategy-based
   congested transit assignment problem described in Codina and Rosell (2017b),
   specifically by extending it to cases dealing with explicit line capacities.
