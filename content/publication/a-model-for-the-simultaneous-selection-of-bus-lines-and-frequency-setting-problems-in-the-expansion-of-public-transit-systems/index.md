@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Grace Maureira
   - Esteve Codina
-publication_short: Transportation research procedia. Vol. 47, p. 497-504
+publication_short: Transportation Research Procedia, Volume 47, 2020, pages 497-504
 abstract: When expanding an existing public transport system a common practice
   consists of defining a set of candidate new lines and from them, choose those
   that will revert into a greater increase of the system’s performance while
