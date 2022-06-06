@@ -54,7 +54,7 @@ image:
   preview_only: true
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
-publication: "*Optimization and Engineering*"
+publication: Optimization and Engineering
 featured: false
 date: 2020-07-02T10:12:35.157Z
 publishDate: 2021-03-13T22:09:53.496Z
