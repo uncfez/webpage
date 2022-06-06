@@ -9,7 +9,7 @@ authors:
   - Jaume Barceló
   - Esteve Codina
   - K. Noekel
-publication_short: Transportation Research Procedia, Vol. 62, 2022, Pages 450-458
+publication_short: Transportation Research Procedia, Volume 62, 2022, pages 450-458
 abstract: This paper describes the components of an intermodal dispatcher of
   ride pooling requests to integrate these urban mobility systems with the
   public transport network in an urban area, thus making possible a new
