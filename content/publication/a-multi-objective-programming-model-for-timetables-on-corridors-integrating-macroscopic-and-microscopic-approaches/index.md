@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Ángel Marín
   - Esteve Codina
-publication_short: Transportation research procedia Volume 47, 2020, pages 67-74
+publication_short: Transportation Research Procedia, Volume 47, 2020, pages 67-74
 abstract: This paper proposes an integrated framework for timetable design that
   meets the needs of service planners, who usually adopt a purely macroscopic
   point of view toward the demand requirements and conflicts that these
