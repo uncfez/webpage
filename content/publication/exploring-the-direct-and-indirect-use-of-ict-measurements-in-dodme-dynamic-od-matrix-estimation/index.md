@@ -49,7 +49,7 @@ image:
   preview_only: true
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
-publication: "*Applied Sciences*"
+publication: Applied Sciences
 featured: false
 date: 2021-11-15T11:04:56.292Z
 publishDate: 2021-03-13T22:09:53.496Z
