@@ -8,7 +8,7 @@ authors:
   - Luís Cadarso
   - Esteve Codina
   - Ricardo García-Ródenas
-publication_short: Transportation Research Procedia, Vol. 62, 2022, Pages 43-50
+publication_short: Transportation Research Procedia, Volume 62, 2022, pages 43-50
 abstract: Rail operations are often disrupted by accidents that cause traffic to
   diverge from the scheduled operations, rendering it difficult to run the
   schedule as planned. In such a case, the operator must change the schedule to
