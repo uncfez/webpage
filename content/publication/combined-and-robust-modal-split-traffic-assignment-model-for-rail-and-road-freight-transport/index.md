@@ -1,5 +1,5 @@
 ---
-title: Combined and Robust Modal-split/Traffic Assignment Model for Rail and
+title: A Combined and Robust Modal-split/Traffic Assignment Model for Rail and
   Road Freight Transport
 subtitle: ""
 publication_types:
