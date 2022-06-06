@@ -11,7 +11,7 @@ authors:
   - María Paz Linares
   - Marta Cuatrecasas
   - Jordi Cluet
-publication_short: Transportation Research Procedia, Vol. 62, 2022, Pages 270-277
+publication_short: Transportation Research Procedia, Volume 62, 2022, pages 270-277
 abstract: "The pervasive use of mobile devices has brought a valuable new source
   of data. The work presented here has a twofold objective: firstly, to
   demonstrate the capability of mobile phone records to feed traditional
