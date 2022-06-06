@@ -8,7 +8,7 @@ authors:
   - María Luz López-García
   - Luis Cadarso
   - Esteve Codina
-publication_short: Transportation Research Procedia, Vol. 62, 2022, Pages 815-823
+publication_short: Transportation Research Procedia, Volume 62, 2022, pages 815-823
 abstract: "Unexpected events may perturb operations and generate conflicts that
   must be addressed promptly to limit delay propagation and other negative
   impacts on the network. The real-time railway traffic management problem deals
