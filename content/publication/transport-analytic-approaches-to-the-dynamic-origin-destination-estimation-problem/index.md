@@ -54,7 +54,7 @@ image:
   preview_only: true
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
-publication: "*Transportation Research Part-C*"
+publication: Transportation Research Part-C
 featured: false
 date: 2022-01-01T11:00:40.467Z
 publishDate: 2021-03-13T22:09:53.496Z
