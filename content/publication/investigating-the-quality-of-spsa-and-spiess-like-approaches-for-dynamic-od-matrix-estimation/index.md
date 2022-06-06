@@ -23,7 +23,7 @@ abstract: Since OD matrices are not directly observable, indirect procedures
   focussing on faults of classical convergence measures to obtain an estimated
   dynamic OD matrix structurally similarity to the a priori OD matrix and pros
   and cons of variants of selected methods.
-bib_file: citation-338827437.bib
+bib_file: cite.bib
 url_pdf: /files/publications/todeliver_v1.pdf
 url_dataset: ""
 url_slides: ""
