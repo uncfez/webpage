@@ -9,7 +9,7 @@ authors:
   - Esteve Codina
   - Laureano F. Escudero
   - Ángel Marín
-publication_short: Transportation Research Procedia, Vol 22, 255-264
+publication_short: Transportation Research Procedia, Volume 22, 2017, pages 255-264.
 abstract: "Rapid transit network design is highly dependent on the future system
   usage. These spatially distributed systems are vulnerable to disruptions:
   during daily operations different incidents may occur. Despite the
