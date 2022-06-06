@@ -8,7 +8,7 @@ authors:
   - Xavier Ros-Roca
   - Jaume Barceló
   - Lídia Montero
-doi: https://doi.org/10.1080/23249935.2020.1722282
+publication_short: TransportMetrica-A. Volume 17 Issue 3
 abstract: Since OD matrices are not directly observable, indirect procedures
   have been developed to estimate OD matrices from traffic data. Traffic
   management must move toward dynamic traffic assignment models because they
@@ -25,8 +25,8 @@ abstract: Since OD matrices are not directly observable, indirect procedures
   and cons of variants of selected methods.
 bib_file: citation-338827437.bib
 url_pdf: /files/publications/todeliver_v1.pdf
-url_code: ""
 url_dataset: ""
+url_slides: ""
 url_source: ""
 url_video: ""
 url_project: ""
@@ -41,9 +41,10 @@ image:
 summary: ""
 lastmod: 2021-03-13T23:10:02+01:00
 publication: "*TransportMetrica-A*"
-url_slides: ""
 featured: false
-date: 2022-06-06T09:25:36.850Z
+date: 2019-12-19T10:57:05.316Z
 publishDate: 2021-03-13T22:09:53.496Z
+doi: https://doi.org/10.1080/23249935.2020.1722282
+url_code: ""
 url_poster: ""
 ---
