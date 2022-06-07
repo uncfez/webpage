@@ -39,7 +39,7 @@ url_code: ""
 
 **Work team:**
 
-* [Jaume Barceló Bugeda](/author/jaime-barcelo-bugeda)
+* [Jaume Barceló Bugeda](/author/jaume-barcelo-bugeda)
 * [María Paz Linares Herreros](/author/maria-paz-linares-herreros)
 * [Francisco López Ramos](/author/francisco-lopez-ramos)
 * [Ester Lorente García](/author/ester-lorente-garcia)
