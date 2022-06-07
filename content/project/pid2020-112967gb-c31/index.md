@@ -34,17 +34,17 @@ url_code: ""
 
 **Research team:**
 
-* [](/author/esteve-codina-sancho/)Eusebio Angulo
-* Doroteo Verastegui
+* [](/author/esteve-codina-sancho/)[Eusebio Angulo Sánchez-Herrera](/author/eusebio-angulo-sanchez-herrera)
+* [Doroteo Verastegui Rayo](/author/doroteo-verastegui-rayo)
 
 **Work team:**
 
-* Jaume Barceló
-* María Paz Linares Herreros
-* Francisco López Ramos
-* Ester Lorente García
-* Xavier Ros Roca
-* Francisca Rosell Camos
+* [Jaume Barceló Bugeda](/author/jaume-barcelo-bugeda)
+* [María Paz Linares Herreros](/author/maria-paz-linares-herreros)
+* [Francisco López Ramos](/author/francisco-lopez-ramos)
+* [Ester Lorente García](/author/ester-lorente-garcia)
+* [Xavier Ros Roca](/author/xavier-ros-roca)
+* [Francisca Rosell Camps](/author/francisca-rosell-camps)
 
 **Abstract:**
 
