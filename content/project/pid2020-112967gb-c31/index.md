@@ -33,7 +33,7 @@ The shared objectives of this subproject are:
 * **03 UPC-UCLM**. Modelling the time slot allocation by the Infrastructure manager in deregulated markets in both normal and low demand scenarios.
 * **05 UPC**. Activity-based models for uncertain and restricted demand situations for urban and interurban mobility.
 
-**Principal Investigator(s)**
+**Principal Investigators:**
 
 * [Esteve Codina Sancho](/author/esteve-codina-sancho/)
 * [Lídia Montero Mercadé](/author/lidia-montero-mercade/)
