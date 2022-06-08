@@ -25,7 +25,13 @@ image:
 url_code: ""
 ---
 **Meeting Optimization and Machine Learning for Railway Transport and Urban Mobility Planning and Management.**
-*Part of the coordinated project "Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport".*
+
+The shared objectives of this subproject are:
+
+* **01 UPC-URJC-UCLM**. Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.
+* **02 UPC-URJC**. Strategic planning of fleets and routes in multimodal environments in competition and under highly variable settings.
+* **03 UPC-UCLM**. Modelling the time slot allocation by the Infrastructure manager in deregulated markets in both normal and low demand scenarios.
+* **05 UPC**. Activity-based models for uncertain and restricted demand situations for urban and interurban mobility.
 
 **Principal Investigator(s)**
 
@@ -45,14 +51,5 @@ url_code: ""
 * [Ester Lorente García](/author/ester-lorente-garcia)
 * [Xavier Ros Roca](/author/xavier-ros-roca)
 * [Francisca Rosell Camps](/author/francisca-rosell-camps)
-
-**Abstract:**
-
-The objectives of this subproject are:
-
-* **01 UPC-URJC-UCLM**. Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.
-* **02 UPC-URJC**. Strategic planning of fleets and routes in multimodal enviroments in competitios and under highly variable settings.
-* **03 UPC-UCLM**. Modelling the time slot allocation by the Infrastructure manager in deregulated markets in both normal and low demand scenarios.
-* **05 UPC**. Activity-based models for uncertain and estricted demand situations for urban and interurban mobility.
 
 <center><a href="https://www.upc.edu" target="_blank"><img src="/files/images/UPC.png" alt="UPC logo" style="display:inline-block;width:30%;height:auto;"></a></center>
