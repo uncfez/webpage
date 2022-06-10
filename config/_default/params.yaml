@@ -68,7 +68,9 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    #   Show a cookie consent message to visitors
+    #   Anonymize IP in Google Analytics (if enabled)
+    enable: true
   repository:
     url: 'https://github.com/ACoSeMSusTran/ACoSeMSusTran.github.io'
     content_dir: content
