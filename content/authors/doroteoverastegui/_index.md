@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - doroteoverastegui
-role: Assistant Professor
+role: Associate Professor
 bio: null
 interests:
   - Optimization
