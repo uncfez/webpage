@@ -46,4 +46,4 @@ His lines of research cover the following areas:
 3. Mathematical programming models and methods for the design and planning at a strategic and tactical level of public transport networks.
 4. Models and applications of ICTs.
 
-Publications and projects can be found in [ https://futur.upc.edu/EsteveCodinaSancho](https://futur.upc.edu/EsteveCodinaSancho). He was the Organizer of the 22nd Meeting of the EURO Working Group on Transportation in Barcelona in 2019.
+Publications and projects can be found at [ https://futur.upc.edu/EsteveCodinaSancho](https://futur.upc.edu/EsteveCodinaSancho). He was the Organizer of the 22nd Meeting of the EURO Working Group on Transportation in Barcelona in 2019.
