@@ -1,72 +1,47 @@
 ---
-# Display name
-title: Ester del Castillo Herrera
-
-# Username (this should match the folder name)
-authors:
-- esterdelcastillo
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Full Professor
-
-# Organizations/Affiliations
 organizations:
-- name: Universidad de Castilla-La Mancha
-  url: "https://www.uclm.es"
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
+  - name: Universidad de Castilla-La Mancha
+    url: https://www.uclm.es
+superuser: false
+authors:
+  - esterdelcastillo
+title: Ester del Castillo Herrera
+role: Full Professor
+bio: null
 interests:
-- XXXX
-
+  - Softcomputing
+  - Fuzzy logic
+  - Approximate reasoning
+  - Machine learning
+  - Deep learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:ester.castillo@uclm.es
+  - icon: orcid
+    icon_pack: fab
+    link: http://orcid.org/0000-0002-3981-2677
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=es&user=W_x9stoAAAAJ
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://github.com/estercastilloherrera
+    icon_pack: fab
+    icon: github
 education:
   courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ester.castillo@uclm.es'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/XXXXX
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=QOP_1r8AAAAJ&hl=es
-- icon: orcid
-  icon_pack: fab
-  link: http://orcid.org/0000-0002-3981-2677
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/RicardoGarciaRodenas
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Computer Science
+      institution: University of Castilla-La Mancha
+      year: 2013
+    - course: BSc in Computer Science
+      institution: University of Granada
+      year: 1991
 user_groups:
   - Researchers
+highlight_name: false
+email: ""
 ---
+Ester del Castillo Herrera is Associate Professor in the Department of Tecnologías y sistemas de información of the Escuela superior de Informática of the University of Castilla La Mancha from the year 2015. She has worked on 15 R & D projects (national and regional projects) and 16 R & D projects with companies. She has carried out research projects and transfer of technology with companies such as Repsol, Ecopriber, Ecoprosa, Hunstman, etc.
