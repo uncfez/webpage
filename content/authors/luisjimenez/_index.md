@@ -10,9 +10,10 @@ role: Full Professor
 bio: null
 interests:
   - Softcomputing
-  - fuzzy logic
-  - approximate reasoning
-  - machine learning and deep learning
+  - Fuzzy logic
+  - Approximate reasoning
+  - Machine learning
+  - Deep learning
 social:
   - icon: envelope
     icon_pack: fas
