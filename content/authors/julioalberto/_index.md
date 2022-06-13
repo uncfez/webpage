@@ -1,72 +1,51 @@
 ---
-# Display name
-title: Julio Alberto López Gómez
-
-# Username (this should match the folder name)
-authors:
-- julioalberto
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Assistant Professor
-
-# Organizations/Affiliations
 organizations:
-- name: Universidad de Castilla-La Mancha
-  url: "https://www.uclm.es"
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
+  - name: Universidad de Castilla-La Mancha
+    url: https://www.uclm.es
+superuser: false
+authors:
+  - julioalberto
+title: Julio Alberto López Gómez
+role: Assistant Professor
+bio: null
 interests:
-- XXXX
-
+  - Operational Research
+  - Optimization
+  - Artificial Intelligence
+  - Fuzzy Logic
+  - Metaheuristic algorithms
+  - Machine Learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:julioalberto.lopez@uclm.es
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.es/citations?user=uox9kcMAAAAJ&hl=es&oi=ao
+  - icon: orcid
+    icon_pack: fab
+    link: http://orcid.org/0000-0001-6291-6637
+  - display:
+      header: false
+    link: https://twitter.com/julioa_lopezg
+    icon_pack: fab
+    icon: twitter
 education:
   courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:julioalberto.lopez@uclm.es'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/XXXXX
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.es/citations?user=uox9kcMAAAAJ&hl=es&oi=ao
-- icon: orcid
-  icon_pack: fab
-  link: http://orcid.org/0000-0001-6291-6637
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/RicardoGarciaRodenas
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Computer Science
+      institution: University of Castilla-La Mancha
+      year: 2019
+    - course: MSc in Data Science and Computer Engineering
+      institution: University of Granada
+      year: 2016
+    - course: BSc. in Computer Science
+      institution: University of Castilla-La Mancha
+      year: 2015
 user_groups:
   - Researchers
+highlight_name: false
+email: ""
 ---
+Julio Alberto López Gómez holds a degree in Computer Science from the University of Castilla la Mancha (2015), a Master's degree in Data Science and Computer Engineering with mention in Data Science and Smart Technologies from the University of Granada (2016) and a PhD in Advanced Computing Technologies from the University of Castilla la Mancha (2019).
+
+Currently, he is Assistant Professor at the Department of Information Technologies and Systems (IST) at the School of Mining and Industrial Engineering of Almadén (EIMIA) of the University of Castilla la Mancha (UCLM), where he also holds the position of Coordinator of External Practices, International Relations, Culture and Sports.
