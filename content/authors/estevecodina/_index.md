@@ -2,8 +2,6 @@
 organizations:
   - name: Universidad Politécnica de Cataluña
     url: https://www.upc.edu
-  - name: IMP - Information, Modeling and Processing
-    url: https://imp.upc.edu/
 superuser: false
 authors:
   - estevecodina
