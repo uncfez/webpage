@@ -23,7 +23,7 @@ social:
     icon: google-scholar
   - display:
       header: false
-    link: 0000-0002-9431-6158
+    link: https://orcid.org/0000-0002-9431-6158
     icon_pack: ai
     icon: orcid
 education:
