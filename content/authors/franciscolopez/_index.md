@@ -11,7 +11,7 @@ interests:
   - Applied optimization
   - Transport problems
   - Python
-  - matheuristics
+  - Matheuristics
 social:
   - icon: envelope
     icon_pack: fas
