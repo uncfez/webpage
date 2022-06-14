@@ -15,6 +15,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lidia.montero@upc.edu
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: https://futur.upc.edu/LidiaMonteroMercade
 education:
   courses:
     - course: "PhD in Computer Science "
