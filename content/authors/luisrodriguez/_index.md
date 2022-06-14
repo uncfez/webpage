@@ -31,6 +31,9 @@ education:
     - course: PhD in Computer Science
       institution: University of Castilla-La Mancha
       year: 2008
+    - course: Degree in Computer Science
+      institution: University of Granada
+      year: 1997
 user_groups:
   - Researchers
 highlight_name: false
