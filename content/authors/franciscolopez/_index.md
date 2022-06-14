@@ -7,6 +7,11 @@ authors:
   - franciscolopez
 role: Research Professor
 bio: null
+interests:
+  - Applied optimization
+  - Transport problems
+  - Python
+  - matheuristics
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,6 +27,18 @@ social:
     link: https://orcid.org/0000-0002-2680-618X
     icon_pack: ai
     icon: orcid
+education:
+  courses:
+    - course: PhD in Operations Research
+      institution: Universitat Politècnica de Catalunya
+      year: 2014
+    - course: "Master of Engineering in Computer Science. Advanced Production
+        Techniques. "
+      institution: Universitat Autònoma de Barcelona
+      year: 2008
+    - course: "BSc in Technical Industrial Engineering. Industrial Electronics. "
+      institution: Universitat Autònoma de Barcelona
+      year: 2003
 user_groups:
   - Researchers
 highlight_name: false
