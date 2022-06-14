@@ -1,12 +1,13 @@
 ---
+title: Francisca Rosell Camps
+role: Predoctoral researcher
+avatar_filename: avatar.jpg
 organizations:
   - name: Universitat Politècnica de Catalunya
     url: https://www.upc.edu
 superuser: false
 authors:
   - franrosell
-role: Predoctoral researcher
-avatar_filename: avatar.jpg
 bio: null
 interests:
   - Optimization
@@ -25,7 +26,7 @@ social:
     link: http://orcid.org/0000-0003-3935-9267
   - display:
       header: false
-    link: www.linkedin.com/in/frarosel
+    link: https://www.linkedin.com/in/frarosel
     icon_pack: fab
     icon: linkedin
 education:
@@ -39,7 +40,6 @@ education:
 user_groups:
   - PhD Students
 highlight_name: false
-title: Francisca Rosell Camps
 email: ""
 ---
 Francisca Rosell Camps is a mathematician, currently a doctoral student in the program of the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya. She has collaborated on different research projects centred on improving the reliability and robustness of the public transport networks, both bus and rail.
