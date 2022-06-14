@@ -22,3 +22,5 @@ design:
 <li><a href="/project/pid2020-112967gb-c33/">PID2020-112967GB-C33</a>: Meeting Operations Research and Machine Learning for Efficient Planning, Management and Control at Air Transport Mobility.</li>
 </ul>
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+
+<center><img src="/files/images/objectives.jpg" alt="Spain goberment logo" width="70%"/></center>
