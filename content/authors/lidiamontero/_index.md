@@ -17,6 +17,11 @@ social:
     link: mailto:lidia.montero@upc.edu
   - display:
       header: false
+    link: https://orcid.org/0000-0001-5722-138X
+    icon_pack: ai
+    icon: orcid
+  - display:
+      header: false
     icon_pack: ai
     icon: cv
     link: https://futur.upc.edu/LidiaMonteroMercade
