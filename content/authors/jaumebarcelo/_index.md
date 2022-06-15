@@ -39,7 +39,7 @@ email: ""
 ---
 Full Professor of the UPC Department of Statistics and Operations Research (1986-2014). His main research areas have been the Modeling of Traffic and Transport systems, Optimization and Simulation techniques for solving these models, and their applications to the planning and management of traffic and transport. 
 
-In 1985 he founded the UPC LIOS Research Group (Laboratory of Operational Research and Simulation), which developed the Aimsun software for microscopic traffic simulation under his direction. As director of LIOS between 1988 and 2007, he was the Principal Investigator in more than 20 projects of the Framework Programs of the European Union. From 2007 to 2015, he was Scientific Director of Transport and ICT Projects at the InLab FIB of the UPC, from 2015 to 2016, Academic Director of [CARNET](https://www.carnet.barcelona) ; and from 2017 to 2020 Strategic Advisor to the [PTV Group](https://www.ptvgroup.com) in Transportation Models. 
+In 1985 he founded the UPC LIOS Research Group (Laboratory of Operational Research and Simulation), which developed the Aimsun software for microscopic traffic simulation under his direction. As director of LIOS between 1988 and 2007, he was the Principal Investigator in more than 20 projects of the Framework Programs of the European Union. From 2007 to 2015, he was Scientific Director of Transport and ICT Projects at the InLab FIB of the UPC, from 2015 to 2016, Academic Director of [CARNET](https://carnetbarcelona.com/) ; and from 2017 to 2020 Strategic Advisor to the [PTV Group](https://www.ptvgroup.com) in Transportation Models. 
 
 He is the author of more than 140 papers published in international technical journals, peer-reviewed conference proceedings and book chapters.
 
