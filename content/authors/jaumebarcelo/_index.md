@@ -18,14 +18,14 @@ social:
     link: mailto:jaume.barcelo@upc.edu
   - display:
       header: false
-    link: https://futur.upc.edu/JaimeBarceloBugeda
-    icon_pack: ai
-    icon: cv
-  - display:
-      header: false
     link: https://orcid.org/0000-0001-6195-6434
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://futur.upc.edu/JaimeBarceloBugeda
+    icon_pack: ai
+    icon: cv
 education:
   courses:
     - course: PhD in Physical Sciences
