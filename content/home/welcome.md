@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title:
+title: null
 hero_media: welcome.jpg
 widget_id: "1"
 design:
@@ -21,4 +21,4 @@ design:
 <li><small><strong>UCLM:</strong> <a href="/project/pid2020-112967gb-c32/">Grant PID2020-112967GB-C32</a></small></li>
 <li><small><strong>URJC:</strong> <a href="/project/pid2020-112967gb-c33/">Grant PID2020-112967GB-C33</a></small></li>
 </ul>
-<center><img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="80%"/></center>
+<center><img src="/files/images/micinn_gob_web_aei_2.jpg" alt="Spain goberment logo" width="60%"/></center>
