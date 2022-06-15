@@ -23,4 +23,4 @@ design:
 </ul>
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 
-<center><img src="/files/images/objectives.jpg" alt="Spain goberment logo" width="70%"/></center>
+<center><img src="/files/images/objectives.jpg" alt="Spain goberment logo" width="60%"/></center>
