@@ -27,6 +27,11 @@ social:
     link: https://orcid.org/0000-0002-2680-618X
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    link: https://publons.com/researcher/2196905/francisco-lopez-ramos/
+    icon_pack: ai
+    icon: researchid
 education:
   courses:
     - course: PhD in Operations Research
