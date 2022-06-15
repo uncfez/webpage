@@ -35,6 +35,9 @@ education:
     - course: Master of Engineering in Computer Science, Advanced Production Techniques
       institution: Universitat Autònoma de Barcelona
       year: 2008
+    - course: Master’s Degree in Electronic Engineering, HW/SW codesign
+      institution: Universitat Autònoma de Barcelona
+      year: 2005
     - course: BSc in Technical Industrial Engineering, Industrial Electronics
       institution: Universitat Autònoma de Barcelona
       year: 2003
