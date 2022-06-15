@@ -6,6 +6,7 @@ superuser: false
 authors:
   - jaumebarcelo
 role: " Professor Emeritus (Statistics and Operations Research) "
+avatar_filename: avatar.jpg
 bio: null
 interests:
   - Optimization and simulation models for transport systems
