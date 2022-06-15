@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Physical Sciences
       institution: Universitat Autònoma de Barcelona
-      year: 1977
+      year: 1974
 user_groups:
   - Researchers
 highlight_name: false
