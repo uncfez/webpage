@@ -31,7 +31,7 @@ social:
       header: false
     link: https://publons.com/researcher/2196905/francisco-lopez-ramos/
     icon_pack: ai
-    icon: researchid
+    icon: researcherid
 education:
   courses:
     - course: PhD in Operations Research
