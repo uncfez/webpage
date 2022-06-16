@@ -48,6 +48,11 @@ social:
     link: https://researchid.co/dverastegui
     icon_pack: ai
     icon: researcherid
+  - display:
+      header: false
+    link: https://www.scopus.com/authid/detail.uri?authorId=14627870300
+    icon_pack: ai
+    icon: scopus
 education:
   courses:
     - course: PhD in Industrial Engineering
