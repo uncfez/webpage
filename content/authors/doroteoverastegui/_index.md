@@ -55,7 +55,7 @@ social:
     icon: twitter
 education:
   courses:
-    - course: PhD in Mathematics
+    - course: PhD in Industrial Engineering
       institution: Universidad de Castilla-La Mancha
       year: 2006
     - course: BSc in Business Finance and Stock Market Analysis
