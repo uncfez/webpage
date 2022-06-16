@@ -11,7 +11,7 @@ social:
       header: false
     link: mailto:ester.lorente@upc.edu
     icon_pack: fas
-    icon: envelop
+    icon: envelope
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=Ax7tN-gAAAAJ&hl=es
