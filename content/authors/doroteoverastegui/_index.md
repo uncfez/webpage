@@ -6,7 +6,7 @@ superuser: false
 authors:
   - doroteoverastegui
 role: Associate Professor
-avatar_filename: ""
+avatar_filename: avatar.png
 bio: null
 interests:
   - Transport
@@ -25,6 +25,9 @@ social:
     link: https://orcid.org/0000-0002-5032-2134
 education:
   courses:
+    - course: PhD in Industrial Engineering
+      institution: Universidad de Castilla-La Mancha
+      year: 2006
     - course: BSc in Business Finance and Stock Market Analysis
       institution: Universidad Politécnica de Madrid
       year: 1991
