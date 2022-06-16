@@ -32,7 +32,7 @@ social:
       header: false
     link: " https://researchid.co/dverastegui "
     icon_pack: ai
-    icon: researchid
+    icon: researcherid
   - display:
       header: false
     link: "https://www.scopus.com/authid/detail.uri?authorId=14627870300 "
