@@ -7,8 +7,7 @@ authors:
   - raulcelis
 role: Associate Professor
 bio: null
-interests:
-  - XXXX
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,10 +16,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.es/citations?user=6uYouxkAAAAJ&hl=es
 education:
-  courses:
-    - course: PhD in XXXXX
-      institution: University of XXXX
-      year: 2010
+  courses: []
 user_groups:
   - Principal Investigators
 highlight_name: false
