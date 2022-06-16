@@ -38,6 +38,11 @@ social:
     link: "https://www.twitter.com/@DVerasteguiR "
     icon_pack: fab
     icon: twitter
+  - display:
+      header: false
+    link: https://www.instagram.com/doroteo_verastegui
+    icon_pack: fab
+    icon: instagram
 education:
   courses:
     - course: PhD in Industrial Engineering
