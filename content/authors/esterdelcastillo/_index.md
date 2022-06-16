@@ -5,8 +5,7 @@ organizations:
 superuser: false
 authors:
   - esterdelcastillo
-title: Ester del Castillo Herrera
-role: Full Professor
+role: Associate Professor
 bio: null
 interests:
   - Softcomputing
@@ -42,6 +41,7 @@ education:
 user_groups:
   - Researchers
 highlight_name: false
+title: Ester del Castillo Herrera
 email: ""
 ---
-Ester del Castillo Herrera is Associate Professor in the Department of Tecnologías y sistemas de información of the Escuela superior de Informática of the University of Castilla La Mancha from the year 2015. She has worked on 15 R & D projects (national and regional projects) and 16 R & D projects with companies. She has carried out research projects and transfer of technology with companies such as Repsol, Ecopriber, Ecoprosa, Hunstman, etc.
+Ester del Castillo Herrera is an Associate Professor in the Department of Tecnologías y sistemas de información of the Escuela superior de Informática of the University of Castilla La Mancha from the year 2015. She has worked on 15 R & D projects (national and regional projects) and 16 R & D projects with companies. She has carried out research projects and technology transfers with companies such as Repsol, Ecopriber, Ecoprosa, Hunstman, etc.
