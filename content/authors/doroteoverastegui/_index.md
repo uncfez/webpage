@@ -23,11 +23,6 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-5032-2134
-  - display:
-      header: false
-    link: " https://researchid.co/dverastegui "
-    icon_pack: ai
-    icon: researcherid
 education:
   courses:
     - course: BSc in Business Finance and Stock Market Analysis
