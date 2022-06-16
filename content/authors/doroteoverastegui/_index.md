@@ -25,6 +25,16 @@ social:
     link: https://orcid.org/0000-0002-5032-2134
   - display:
       header: false
+    link: https://researchid.co/dverastegui
+    icon_pack: ai
+    icon: researcherid
+  - display:
+      header: false
+    link: https://www.scopus.com/authid/detail.uri?authorId=14627870300
+    icon_pack: ai
+    icon: scopus
+  - display:
+      header: false
     link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48
     icon_pack: fab
     icon: linkedin
@@ -43,16 +53,6 @@ social:
     link: https://www.instagram.com/doroteo_verastegui
     icon_pack: fab
     icon: instagram
-  - display:
-      header: false
-    link: https://researchid.co/dverastegui
-    icon_pack: ai
-    icon: researcherid
-  - display:
-      header: false
-    link: https://www.scopus.com/authid/detail.uri?authorId=14627870300
-    icon_pack: ai
-    icon: scopus
 education:
   courses:
     - course: PhD in Industrial Engineering
