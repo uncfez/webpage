@@ -17,11 +17,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:doroteo.verastegui@uclm.es
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48/
-    icon_pack: fab
-    icon: linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=QOP_1r8AAAAJ&hl=es
@@ -33,26 +28,6 @@ social:
     link: " https://researchid.co/dverastegui "
     icon_pack: ai
     icon: researcherid
-  - display:
-      header: false
-    link: "https://www.scopus.com/authid/detail.uri?authorId=14627870300 "
-    icon_pack: ai
-    icon: scopus
-  - display:
-      header: false
-    link: https://www.facebook.com/doroteo.verastegui/
-    icon_pack: fab
-    icon: facebook
-  - display:
-      header: false
-    link: "https://www.instagram.com/doroteo_verastegui/ "
-    icon_pack: fab
-    icon: instagram
-  - display:
-      header: false
-    link: "twitter.com/@DVerasteguiR "
-    icon_pack: fab
-    icon: twitter
 education:
   courses:
     - course: PhD in Industrial Engineering
