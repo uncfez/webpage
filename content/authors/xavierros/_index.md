@@ -13,7 +13,7 @@ social:
       header: false
     link: mailto:xavier.ros.roca@upc.edu
     icon_pack: fas
-    icon: envelop
+    icon: envelope
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=Pbwsl0QAAAAJ&hl=es
