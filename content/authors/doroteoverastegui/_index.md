@@ -28,6 +28,11 @@ social:
     link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://www.facebook.com/doroteo.verastegui
+    icon_pack: fab
+    icon: facebook
 education:
   courses:
     - course: PhD in Industrial Engineering
