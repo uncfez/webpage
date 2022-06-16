@@ -30,9 +30,6 @@ social:
     icon: researcherid
 education:
   courses:
-    - course: PhD in Industrial Engineering
-      institution: Universidad de Castilla-La Mancha
-      year: 2006
     - course: BSc in Business Finance and Stock Market Analysis
       institution: Universidad Politécnica de Madrid
       year: 1991
