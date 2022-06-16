@@ -17,17 +17,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:doroteo.verastegui@uclm.es
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48/
+    icon_pack: fab
+    icon: linkedin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.es/citations?user=QOP_1r8AAAAJ&hl=es
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-5032-2134
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48/
-    icon_pack: fab
-    icon: linkedin
   - display:
       header: false
     link: " https://researchid.co/dverastegui "
