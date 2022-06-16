@@ -23,6 +23,11 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-5032-2134
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/doroteo-verastegui-rayo-7bb25b48
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: PhD in Industrial Engineering
