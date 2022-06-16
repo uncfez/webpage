@@ -6,7 +6,7 @@ superuser: false
 authors:
   - doroteoverastegui
 role: Associate Professor
-avatar_filename: avatar.png
+avatar_filename: ""
 bio: null
 interests:
   - Transport
