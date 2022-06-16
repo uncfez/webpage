@@ -6,10 +6,13 @@ superuser: false
 authors:
   - doroteoverastegui
 role: Associate Professor
+avatar_filename: avatar.png
 bio: null
 interests:
-  - Optimization
-  - Traffic
+  - Transport
+  - Optimisation
+  - Modelling
+  - Algorithms
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,13 +22,16 @@ social:
     link: https://scholar.google.es/citations?user=QOP_1r8AAAAJ&hl=es
   - icon: orcid
     icon_pack: fab
-    link: http://orcid.org/0000-0002-5032-2134
+    link: https://orcid.org/0000-0002-5032-2134
 education:
   courses:
     - course: PhD in Mathematics
-      institution: University of Castilla-La Mancha
+      institution: Universidad de Castilla-La Mancha
       year: 2006
-    - course: Agronomist engineer
+    - course: BSc in Business Finance and Stock Market Analysis
+      institution: Universidad Politécnica de Madrid
+      year: 1991
+    - course: Agronomist
       institution: Universidad de Córdoba
       year: 1988
 user_groups:
@@ -34,3 +40,6 @@ highlight_name: false
 title: Doroteo Verastegui Rayo
 email: ""
 ---
+Doroteo Verastegui Rayo is an Associate Professor in the Department of Mathematics at Universidad de Castilla-La Mancha, assigned to the School of Mining and Industrial Engineering in Almadén. He received his engineering degree from Universidad de Córdoba in 1988, his BSc in business finance and stock market analysis from Universidad Politécnica de Madrid in 1991, and his PhD from  Universidad de Castilla-La Mancha in 2006. 
+
+His current research interests include optimisation and, particularly,  optimisation in transport.
