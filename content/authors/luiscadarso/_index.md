@@ -7,17 +7,18 @@ authors:
   - luiscadarso
 role: Associate Professor
 bio: null
-interests:
-  - XXXX
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:luis.cadarso@urjc.es
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=rWEOhJ4AAAAJ&hl=es&oi=sra
+    icon_pack: ai
+    icon: google-scholar
 education:
-  courses:
-    - course: PhD in XXXXX
-      institution: University of XXXX
-      year: 2010
+  courses: []
 user_groups:
   - Principal Investigators
 highlight_name: false
