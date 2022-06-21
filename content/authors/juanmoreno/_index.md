@@ -1,72 +1,54 @@
 ---
-# Display name
 title: Juan Moreno García
-
-# Username (this should match the folder name)
-authors:
-- juanmoreno
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
 role: Full professor
-
-# Organizations/Affiliations
-organizations:
-- name: Universidad de Castilla-La Mancha
-  url: "https://www.uclm.es"
-
-# Short bio (displayed in user profile at end of posts)
-bio:
-
+bio: null
 interests:
-- XXXX
-
+  - Softcomputing
+  - Fuzzy logic
+  - Approximate reasoning
+  - Machine learning
+  - Deep learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:juan.moreno@uclm.es
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-2430-145X
+  - display:
+      header: false
+    link: https://scholar.google.es/citations?user=FKfUAoQAAAAJ&hl=es
+    icon_pack: ai
+    icon: google-scholar
+  - display:
+      header: false
+    link: https://es.linkedin.com/in/juan-moreno-garcia-84362885
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    link: https://github.com/juanmorenogarcia
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: https://twitter.com/juanmorenogcia?lang=es
+    icon_pack: fab
+    icon: twitter
+organizations:
+  - name: Universidad de Castilla-La Mancha
+    url: https://www.uclm.es
 education:
   courses:
-  - course: PhD in XXXXX
-    institution: University of XXXX
-    year: 2010
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:juan.moreno@uclm.es'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/XXXXX
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.es/citations?user=BHBb5jQAAAAJ&hl=es
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0003-2430-145X
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/RicardoGarciaRodenas
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/ricardo-garcia-rodenas-a0b69218
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Computer Science
+      institution: University of Castilla-La Mancha
+      year: 2002
+superuser: false
+authors:
+  - juanmoreno
 user_groups:
   - Principal Investigators
+highlight_name: false
+email: ""
 ---
+Juan Moreno-Garcia received the B.E. degree and the Ph.D. degree in computer science from the University of Castilla-La Mancha, Ciudad Real, Spain, in 1992 and 2002, respectively, and the M.S. degree from the University of Murcia, Murcia, Spain, in 1996. He holds a PhD in Computer Science from the University of Castilla-La Mancha since 2002. He is a Full Professor of industrial engineering with the University of Castilla-La Mancha. His main fields of interest are fuzzy logic and linguistic modeling, time series, and linguistic description. He has interest in developing models for real applications.
