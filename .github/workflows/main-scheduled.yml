@@ -31,4 +31,4 @@ jobs:
         HUGO_EXTENDED: true
         TARGET_REPO: ACoSeMSusTran/ACoSeMSusTran.github.io
         TOKEN: ${{ secrets.HUGO_DEPLOY_TOKEN }}
-        CNAME: acosemsustran.github.io
+        CNAME: acosemsustran.upc.edu
