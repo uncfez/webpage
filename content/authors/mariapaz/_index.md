@@ -43,7 +43,7 @@ education:
       year: 2014
     - course: Master in Logistics, Transport and Mobility
       institution: Universitat Politècnica de Catalunya
-      year: 2011
+      year: 2008
     - course: BSc in Mathematics
       institution: Universitat Politècnica de Catalunya
       year: 2005
