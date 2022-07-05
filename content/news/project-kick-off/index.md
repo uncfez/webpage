@@ -2,8 +2,8 @@
 summary: ""
 draft: false
 authors:
-  - esteve-codina-sancho
-  - francisca-rosell-camps
+  - estevecodina
+  - franciscarosell
 lastmod: 2020-12-13T00:00:00.000Z
 title: Project Kick-off
 subtitle: In October 2021, with the participation of the coordinators of the
