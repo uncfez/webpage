@@ -6,8 +6,7 @@ authors:
   - franrosell
 lastmod: 2020-12-13T00:00:00.000Z
 title: Project Kick-off
-subtitle: In October 2021, with the participation of the coordinators of the
-  three subprojects, the **Kick-off meeting** was held in a virtual meeting.
+subtitle: ""
 date: 2022-07-05T08:12:21.211Z
 featured: false
 tags:
