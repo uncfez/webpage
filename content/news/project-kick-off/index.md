@@ -3,11 +3,11 @@ summary: ""
 draft: false
 authors:
   - estevecodina
-  - franciscarosell
+  - franciscarosellcamps
 lastmod: 2020-12-13T00:00:00.000Z
 title: Project Kick-off
 subtitle: ""
-date: 2022-07-05T07:58:53.649Z
+date: 2022-07-05T08:12:21.211Z
 featured: false
 tags:
   - kick-off
