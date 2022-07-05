@@ -3,7 +3,7 @@ summary: ""
 draft: false
 authors:
   - estevecodina
-  - franciscarosell
+  - franciscarosellcamps
 lastmod: 2020-12-13T00:00:00.000Z
 title: Project Kick-off
 subtitle: In October 2021, with the participation of the coordinators of the
