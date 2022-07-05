@@ -2,19 +2,16 @@
 summary: ""
 draft: false
 authors:
-  - ricardogarcia
-  - joseangelmartin
-lastmod: 2020-12-13T00:00:00Z
+  - estevecodina
+  - franciscarosell
+lastmod: 2020-12-13T00:00:00.000Z
 title: Project Kick-off
 subtitle: ""
 date: 2022-07-05T07:58:53.649Z
 featured: false
 tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+  - kick-off
+categories: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
