@@ -1,52 +1,14 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
+widget_id: "1"
 weight: 10
-
-title: Contact
-subtitle:
-
-content:
-  # Contact (edit or remove options as required)
-
-  #email: ricardo.garcía@uclm.es
-  #phone: 888 888 88 88
-  #coordinates:
-  #  latitude: '38.99036'
-  #  longitude: '-3.92035'
-  #directions: 'Grupo de investigacion MAT, Escuela Superior de Informática.<br>
-  #Paseo de la Universidad, 4. 13071 <br>
-  #Ciudad Real, Spain.'
-  #office_hours:
-  #  - 'Monday 10:00 to 13:00'
-  #  - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
-
-  # Automatically link email and phone or display as text?
-  #autolink: true
-
-  # Email form provider
-  #form:
-  #  provider: netlify
-  #  formspree:
-  #    id:
-  #  netlify:
-  #    # Enable CAPTCHA challenge to reduce spam?
-  #    captcha: true
-
+title: Contact us
+subtitle: null
+content: null
+headless: true
 design:
-  columns: '1'
+  columns: "1"
 ---
+The **ACoSeMSusTran project** is coordinated by Universitat Politècnica de Catalunya, Universidad de Castilla-La Mancha and Universidad Rey Juan Carlos, Spain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+If you have any question please send us an email to [acosemsustran@event.upc.edu](mailto:acosemsustran@event.upc.edu)
