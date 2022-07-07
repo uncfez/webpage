@@ -11,4 +11,4 @@ design:
 ---
 The **ACoSeMSusTran project** is coordinated by Universitat Politècnica de Catalunya, Universidad de Castilla-La Mancha and Universidad Rey Juan Carlos, Spain.
 
-If you have any question please send us an email to acosemsustran@event.upc.edu
+If you have any question please send us an email to **acosemsustran@event.upc.edu**
