@@ -1,9 +1,13 @@
 ---
+advanced:
+  css_class: fullscreen
 widget: blank
+widget_id: "2"
 headless: true
-weight: 5
+weight: 20
 title: null
 subtitle: null
+active: true
 design:
   columns: "1"
   background:
@@ -19,7 +23,4 @@ design:
       - "0"
       - 20px
       - "0"
-advanced:
-  css_class: fullscreen
-widget_id: "2"
 ---
