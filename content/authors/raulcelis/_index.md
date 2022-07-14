@@ -32,12 +32,12 @@ social:
     icon: linkedin
 education:
   courses:
-    - course: "Aerospace Engineer "
-      institution: Universidad Politécnica de Madrid
-      year: 2007
     - course: PhD in Information and Communications Technology
       institution: Universidad Rey Juan Carlos
       year: 2017
+    - course: "Aerospace Engineer "
+      institution: Universidad Politécnica de Madrid
+      year: 2007
 user_groups:
   - Principal Investigators
 highlight_name: false
