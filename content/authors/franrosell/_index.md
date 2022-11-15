@@ -45,7 +45,7 @@ education:
       institution: Universitat de Barcelona
       year: 1990
 user_groups:
-  - Research
+  - Researchers
 highlight_name: false
 title: Francisca Rosell Camps
 email: ""
