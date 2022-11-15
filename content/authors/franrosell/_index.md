@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - franrosell
-role: Predoctoral researcher
+role: Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests:
@@ -35,18 +35,21 @@ social:
     icon: cv
 education:
   courses:
-    - course: Master in Statistical and Operations Research
+    - course: PhD in Statistics and Operational Research
+      institution: Universitat Politècnica de Catalunya
+      year: 2022
+    - course: Master in Statistical and Operational Research
       institution: Universitat Politècnica de Catalunya
       year: 2014
     - course: BSc in Mathematics
       institution: Universitat de Barcelona
       year: 1990
 user_groups:
-  - PhD Students
+  - Research
 highlight_name: false
 title: Francisca Rosell Camps
 email: ""
 ---
-Francisca Rosell Camps is a mathematician, currently a doctoral student in the program of the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya. She has collaborated on different research projects centred on improving the reliability and robustness of the public transport networks, both bus and rail.
+Francisca Rosell Camps is a mathematician, and she has recently obtained her PhD in the program of the Department of Statistics and Operations Research of the Universitat Politècnica de Catalunya. She has collaborated on different research projects centred on improving the reliability and robustness of the public transport networks, both bus and rail.
 
 Her doctoral thesis is focused on mathematical optimization models for rail freight transport networks. The main objective is to analyze the impact that the improvements in the railway infrastructure can have on the use of the train for freight transport.
