@@ -38,7 +38,7 @@ education:
     - course: PhD in Statistics and Operational Research
       institution: Universitat Politècnica de Catalunya
       year: 2022
-    - course: Master in Statistical and Operational Research
+    - course: Master in Statistics and Operational Research
       institution: Universitat Politècnica de Catalunya
       year: 2014
     - course: BSc in Mathematics
