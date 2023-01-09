@@ -50,4 +50,4 @@ email: ""
 ---
 José Ángel Martín Baos is a predoctoral researcher in computer science in the Escuela Superior de Informática of the University of Castilla-La Mancha. There, he graduated with honors on both a BSc. in computer science in the year 2018, and a MSc. in computer science in the year 2019.
 
-He is currently studying his PhD at the University of Castilla-La Mancha as a teaching assistant. Previously, he has been working with a FPU (Ayudas para la formación de profesorado universitario) grant from the Spanish Ministry of Science, Innovation and Universities. He is also working as research assistant in the MAT (Modelos y Algoritmos en Sistemas de Transportes) research group since 2016.
+He is currently studying his PhD at the University of Castilla-La Mancha as a teaching assistant (profesor Ayudante). Previously, he has been working with a FPU (Ayudas para la formación de profesorado universitario) grant from the Spanish Ministry of Science, Innovation and Universities. He is also working as research assistant in the MAT (Modelos y Algoritmos en Sistemas de Transportes) research group since 2016.
