@@ -11,7 +11,9 @@ authors:
   - Ricardo García-Ródenas
 publication: ArXiv Preprint
 doi: 10.48550/arXiv.2301.04404
+bib_file: martinbaos2023.bib
 url_code: https://github.com/joseangelmartinb/prediction-behavioural-analysis-ml-travel-mode-choice
+url_source: https://arxiv.org/abs/2301.04404
 draft: false
 featured: false
 image:
