@@ -6,7 +6,7 @@ media_folder: 'assets/media'
 public_folder: '/media'
 collections:
   - name: home
-    label: "Homepage"
+    label: "Hemsida"
     folder: 'content/home'
     path: '{{slug}}'
     # When specifying a path on a folder collection, media_folder defaults to an empty string, so make it explicit.
@@ -74,8 +74,8 @@ collections:
                 required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: authors
-    label: Authors
-    label_singular: Author
+    label: Författare
+    label_singular: Författare
     folder: 'content/authors'
     path: '{{slug}}/_index'
     filter: {field: "cms_exclude"}
@@ -153,9 +153,9 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-  - name: news
-    label: News
-    label_singular: News
+  - name: post
+    label: Inlägg
+    label_singular: Inlägg
     folder: 'content/news'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
