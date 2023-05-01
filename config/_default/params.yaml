@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: turf_theme
+  theme_night: 
+  font: turf_font
   font_size: L
 
 # SEO
@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'Coordinated project PID2020-112967GB: Analytics for Competitiveness and Seamless Mobility at Passenger and Freight Sustainable Transport (ACoSeM@SusTran).'
+    org_name: 'Turf Västerbotten'
+    description: 'Föreningen för turfare i regionen Västerbotten'
     twitter: ''
   analytics:
-    google_analytics: 'G-P7KHEG9ESY'
+    google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
@@ -37,15 +37,15 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} <a href="https://imp.upc.edu" target="_blank">IMP</a>, <a href="https://blog.uclm.es/grupomat/MAT" target="_blank">MAT</a>, <a href="https://oreto.esi.uclm.es/" target="_blank">ORETO</a> and <a href="https://gestion2.urjc.es/pdi/grupos-investigacion/gisat----astrg" target="_blank">GISAT</a> research groups.' #<br> This work is licensed under {license}'
+    notice: '© {year} Turf Västerbotten. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -53,9 +53,9 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2 January 2006'
+  time_format: '15:04'
+  address_format: fi
 
 # Site features
 
@@ -70,11 +70,11 @@ features:
   privacy_pack:
     #   Show a cookie consent message to visitors
     #   Anonymize IP in Google Analytics (if enabled)
-    enable: true
+    enable: false
   repository:
-    url: 'https://github.com/ACoSeMSusTran/ACoSeMSusTran.github.io'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -85,6 +85,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -95,7 +100,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 17
+    zoom: 15
 
 # Extensions
 
@@ -104,7 +109,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Citation style
 
