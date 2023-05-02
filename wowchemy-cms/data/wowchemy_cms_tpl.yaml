@@ -2,11 +2,12 @@ backend:
   name: git-gateway
   branch: main
   squash_merges: true
+locale: 'sv'
 media_folder: 'assets/media'
 public_folder: '/media'
-collections:
+collections: # A list of collections the CMS should be able to edit
   - name: home
-    label: "Hemsida"
+    label: "Startsida"
     folder: 'content/home'
     path: '{{slug}}'
     # When specifying a path on a folder collection, media_folder defaults to an empty string, so make it explicit.
