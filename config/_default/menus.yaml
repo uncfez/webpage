@@ -4,36 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  #- name: Home
-  #  url: '#about'
-  #  weight: 10
-  - name: News
-    url: '/news'
+  - name: Om föreningen
+    url: om-foreningen-och-styrelsen
+    weight: 10
+  - name: Bli medlem
+    url: bli-medlem
     weight: 20
-  - name: People
-    url: '/people'
+  - name: Kalender
+    url: kalender
     weight: 30
-  - name: Projects
-    url: '/project'
+  - name: Västerbottens Turf-klassiker
+    url: vasterbottens-turf-klassiker
     weight: 40
-  - name: Events
-    url: '/event'
+  - name: Vandringspokalen
+    url: vandringspokal
     weight: 50
-  - name: Publications
-    url: '/publication'
+  - name: Profilkläder
+    url: profilklader
     weight: 60
-  - name: Software
-    url: '/software'
+  - name: Vad är Turf?
+    url: publication
     weight: 70
-  - name: Data
-    url: '/data'
+  - name: Kontakt
+    url: contact
     weight: 80
-  - name: Contact
-    url: '/contact'
-    weight: 100
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Turfgame.com
+    url: https://turfgame.com/
+    weight: 90
