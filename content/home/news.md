@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: news
+  page_type: post
 design:
   view: 5
   columns: '1'
