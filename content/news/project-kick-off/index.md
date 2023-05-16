@@ -1,14 +1,24 @@
 ---
-summary: ""
+title: Project Kick-off
+subtitle: ""
+date: 2022-07-05T08:12:21.211Z
+summary: >-
+  Föreningen Turf Västerbotten söker engagerade och drivna personer för små och
+  stora uppdrag. Du behöver inte ha erfarenhet av föreningsarbete sedan tidigare
+  men gärna ett starkt intresse för att göra det roligt att turfa i hela
+  Västerbotten.
+
+
+  Många möten hålls digitalt. Utöver styrelsen finns det andra sätt att engagera sig i föreningen, både stora och små uppdrag, t.ex. eventarrangemang, Bonanza-gruppen, valberedning och revision.
+
+
+  Är du nyfiken och vill veta mer så ta gärna en assist med valberedningen (WombaWomba) eller någon i styrelsen. Det går också bra att skicka meddelande i chatten/mail.
 draft: false
+featured: false
 authors:
   - estevecodina
   - franrosell
 lastmod: 2020-12-13T00:00:00.000Z
-title: Project Kick-off
-subtitle: ""
-date: 2022-07-05T08:12:21.211Z
-featured: false
 tags:
   - kick-off
 categories: []
