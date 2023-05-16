@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: null
-hero_media: welcome.jpg
+hero_media: 2017-06-11-11.37.33-e1557168816469.jpg
 widget_id: "1"
 design:
   columns: ""
