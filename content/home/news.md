@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: news
 design:
-  view: 3
+  view: 2
   columns: '1'
 ---
