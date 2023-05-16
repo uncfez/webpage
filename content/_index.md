@@ -14,7 +14,7 @@ sections:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
       cta_alt:
-        label: Ask a question
+        label: Fråga något
         url: https://discord.gg/z8wNYzb
       cta_note:
         label: >-
