@@ -3,10 +3,10 @@ title: Project Kick-off
 subtitle: ""
 date: 2022-07-05T08:12:21.211Z
 summary: >-
-  Summary: "Föreningen Turf Västerbotten söker engagerade och drivna personer
-  för små och stora uppdrag. Du behöver inte ha erfarenhet av föreningsarbete
-  sedan tidigare men gärna ett starkt intresse för att göra det roligt att turfa
-  i hela Västerbotten.
+  Föreningen Turf Västerbotten söker engagerade och drivna personer för små och
+  stora uppdrag. Du behöver inte ha erfarenhet av föreningsarbete sedan tidigare
+  men gärna ett starkt intresse för att göra det roligt att turfa i hela
+  Västerbotten.
 
 
   Många möten hålls digitalt. Utöver styrelsen finns det andra sätt att engagera sig i föreningen, både stora och små uppdrag, t.ex. eventarrangemang, Bonanza-gruppen, valberedning och revision.
